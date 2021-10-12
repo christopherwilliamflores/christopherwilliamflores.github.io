@@ -1,0 +1,17 @@
+#titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#cuerpo{
+    background-color: #FFFFFF
+;
+
+}
+#titulo{
+    text-align: center;
+}
+
+#imagenface{
+    display:block;
+    margin:auto;
+}
