@@ -14,4 +14,34 @@
 #imagenface{
     display:block;
     margin:auto;
+    width: 430px;
+    height:430px;
 }
+
+#cuerpo h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#cuerpo p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#cuerpo ol{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/* 
+#githubbutton img{
+    display: block;
+    height: 70px;  
+    width: 70px;
+    padding: 0px;
+    border: 0px;
+}
+
+
+#githubbutton div{
+    padding: 0px;
+    border: 0px;
+} */
